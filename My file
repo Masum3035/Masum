@@ -222,8 +222,8 @@ http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110HD06/video.m3u8
 
 #❤️❤️❤️❤️❤️❤️
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/5yjzqYfT/images.jpg",Enter 10 Bangla[low qulity]
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/0yvQ9MLv/images-2.jpg",Enter 10 Bangla[mp4]
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
@@ -231,8 +231,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/J4Z0wcYK/images-1.jpg",Enter 10 Bangla[high]
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/5yjzqYfT/images.jpg",Enter 10 Bangla[low qulity]
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #❤️❤️❤️❤️❤️
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla
 https://freeiptv25.netlify.app/live/app/Ruposhi/index.m3u8
