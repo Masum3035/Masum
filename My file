@@ -299,10 +299,10 @@ http://103.107.79.87:8080/CH8110HD07/video.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/c45dx6W6/Animal-planet.png",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="Documentary", CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.postimg.cc/wvc6gVxd/images-21.jpg" group-title="Documentary", CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
@@ -311,37 +311,37 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
 http://opplex.tv:8080/live/Sajid78/Sajid2244/206278.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/W3P2BKvn/images-19.jpg",Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/mkLTDHh1/images-20.jpg",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/ILv7SIh.jpg",Discovery Hindi
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Hindi
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/ILv7SIh.jpg",Discovery Bangla
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Bangla
 http://opplex.tv:8080/live/Sajid78/Sajid2244/245966.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sODmXS5.jpg",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png",Food Network
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/YqSpBYJJ/1200px-Food-Network-logo-svg.png",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="Documentary", TRAVELXP
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/3wG8bhPN/images-23.jpg" group-title="Documentary", TRAVELXP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/4dt61q89/images-5.jpg" group-title="Documentary", WILD EARTH
 http://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="Documentary", FOOD FOOD
+#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://i.postimg.cc/YqSpBYJJ/1200px-Food-Network-logo-svg.png" group-title="Documentary", FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg",History Channel Hindi
 http://opplex.tv:8080/live/Sajid78/Sajid2244/206294.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png",NASA TV
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/wx26r0bX/images-22.jpg",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
@@ -350,13 +350,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png",KHUSHBOO BANGLA
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/8kRS8jFh/images-14.jpg",KHUSHBOO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png",Rongeen Tv
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/FHR5JpTZ/images-16.jpg",Rongeen Tv
 http://tv1.instafarm.live/getm3u8/1667/master.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic Bangla
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/PrdkdTZ0/images-15.jpg",Sonic Bangla
 http://tv1.instafarm.live/getm3u8/1345/master.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD
@@ -371,7 +371,7 @@ http://tv1.instafarm.live/getm3u8/1341/master.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network Hindi
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/T348jbSX/images-17.jpg",Cartoon Network Hindi
 http://xtv.ooo:8080/live/Sehrish/12345/150478.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/bqz9EXY.png",WOW KIDS ACTION
@@ -383,7 +383,7 @@ http://opplex.tv:8080/live/Sajid78/Sajid2244/26187.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/nOYdnaK.png",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png",Pogo
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/28TN6M7y/images-18.png",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/YTfbaxj.png",Hungama tv
