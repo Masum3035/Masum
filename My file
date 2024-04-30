@@ -318,7 +318,7 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Hindi
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Bangla
 http://opplex.tv:8080/live/Sajid78/Sajid2244/245966.m3u8
