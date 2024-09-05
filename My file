@@ -11,10 +11,10 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" peace tv bangla" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg" group-title="Islamic", peace tv bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/J76SsLSF/Peace-TV-official-logo.png",peace tv english
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" Deen tv" tvg-logo="https://i.postimg.cc/ncC7J5n8/images-5-18.jpg" group-title="Islamic", Deen tv bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
@@ -26,7 +26,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/6qgzTJPN/b-logo.png",Madani tv bangla
-http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 
 
@@ -38,10 +38,10 @@ http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram
-https://www.btvlive.gov.bd/streams/c5c9d301-fc71-4dc7-8d85-961d04cda9d3/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+https://www.btvlive.gov.bd/streams/26c83e31-7de3-4128-a0e3-46dbcd91cfc7/BD/a707f2dc-9704-413a-a67c-17c64a77c350/a707f2dc-9704-413a-a67c-17c64a77c350_3_playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
-http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+https://www.btvlive.gov.bd/streams/26c83e31-7de3-4128-a0e3-46dbcd91cfc7/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 https://www.btvlive.gov.bd/streams/c5c9d301-fc71-4dc7-8d85-961d04cda9d3/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
