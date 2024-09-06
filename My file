@@ -56,10 +56,10 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla
-http://103.89.248.10:8082/ATN-NEWS/index.m3u8?token=3562aeda184e24fae76be875618e5c17c3590a01-a6d63a74c868791b07d70cd6a4deecab-1725483569-1725472769LzIwMjQgNToyMzozOCBQTSZoYXNoX3ZhbHVlPTlHNkFoSlRta0k4aVlsczk2N1BRYUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://xtv.ooo:8080/live/98267/02727/245909.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png",Atn News
-http://103.89.248.10:8082/ATN-NEWS/preview.mp4?token=3562aeda184e24fae76be875618e5c17c3590a01-a6d63a74c868791b07d70cd6a4deecab-1725483569-1725472769
+http://xtv.ooo:8080/live/98267/02727/245905.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla Uk
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
@@ -104,7 +104,7 @@ http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian tv
-https://mtlivestream.site/asian/ytlive/index.m3u8
+http://xtv.ooo:8080/live/98267/02727/245908.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Mzolgwz.jpg",CHANNEL S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
