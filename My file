@@ -210,7 +210,7 @@ http://217.20.112.199/colorsbangla/index.m3u8
 http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://103.107.79.87:8080/CH8110HD06/video.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #❤️❤️❤️❤️❤️❤️
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD
@@ -231,7 +231,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 https://freeiptv25.netlify.app/live/app/Ruposhi/index.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg",Akash 8
-http://sansat.net:88/02029761595924/9d089925dc60a821/100643
+http://lifetvbd.xyz:8080/play/MLfuXBt8Y8WkIrFAldrYUg/m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/XqQLS0Qc/Dd-Bangla.png",DD Bangla
 http://sansat.net:88/02029761595924/9d089925dc60a821/100667
