@@ -43,7 +43,7 @@ https://www.btvlive.gov.bd/streams/26c83e31-7de3-4128-a0e3-46dbcd91cfc7/BD/a707f
 ***EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 https://www.btvlive.gov.bd/streams/26c83e31-7de3-4128-a0e3-46dbcd91cfc7/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
+***EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 https://www.btvlive.gov.bd/streams/c5c9d301-fc71-4dc7-8d85-961d04cda9d3/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
@@ -494,6 +494,31 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Bein Sports 1 EN
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",T Sports BD
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",BD VS IN TOFFEE LIVE
+https://fdev.short.gy/IndVbanxRanapk.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",SPORT TV
+http://xtv.ooo:8080/live/98267/02727/352929.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Sport tv 1
+http://xtv.ooo:8080/live/98267/02727/352930.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",SPORT TV 2
+ttp://xtv.ooo:8080/live/98267/02727/352931.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",SPORT TV 3
+http://xtv.ooo:8080/live/98267/02727/352932.m3u8
+
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",SPORT TV 4
+http://xtv.ooo:8080/live/98267/02727/352933.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",SPORT TV 5
+http://xtv.ooo:8080/live/98267/02727/352934.m3u8
 
 #Song--------❤️❤️❤️
 
