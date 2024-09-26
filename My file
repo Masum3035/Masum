@@ -1,32 +1,32 @@
 #EXTM3U
 
-EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka Live
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka tv
+https://global.ncare.live/live-orgin/makkahtv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/qKf0Ih3.png",TV ONE
-https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
+https://global.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" peace tv bangla" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg" group-title="Islamic", peace tv bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/J76SsLSF/Peace-TV-official-logo.png",peace tv english
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/J76SsLSF/Peace-TV-official-logo.png",peace tv
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" Deen tv" tvg-logo="https://i.postimg.cc/ncC7J5n8/images-5-18.jpg" group-title="Islamic", Deen tv bangla
 https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",IQRA Bangla
+***EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",IQRA Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/M0K68o5.png",Islam tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/6qgzTJPN/b-logo.png",Madani tv bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+https://global.ncare.live/live-orgin/madanitvbangla.stream/playlist.m3u8
 
 
 
@@ -57,9 +57,14 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
 
 ***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
 
-***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png?x13834",Biswa-Bangla HD
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png?x13834",Biswa-Bangla HD
+https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
 
-***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/cheu.png",CHANNEL EUROPE
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/cheu.png",CHANNEL EUROPE
+https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://aneeshagroup.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-13-at-6.39.56-PM-300x300.jpeg",RAJDHANI TV
+https://global.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -72,6 +77,9 @@ https://global.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/3xpMMGyC/Desh-TV24-Bangla-Logo.png",Desh Tv
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x13834",TIME TELEVISION
+ https://global.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
 https://global.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
@@ -109,6 +117,8 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png",MILLENNIUM TV USA
+https://global.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian tv
 https://mtlivestream.com/asian/ytlive/index.m3u8
