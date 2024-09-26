@@ -17,7 +17,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" Deen tv" tvg-logo="https://i.postimg.cc/ncC7J5n8/images-5-18.jpg" group-title="Islamic", Deen tv bangla
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",IQRA Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
@@ -53,9 +53,19 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
 
+**EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSIC
+
+***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
+
+***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png?x13834",Biswa-Bangla HD
+
+***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/cheu.png",CHANNEL EUROPE
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Nbw3bKO.png",Probashi Tv
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla Uk
 https://global.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
@@ -536,11 +546,23 @@ http://xtv.ooo:8080/live/98267/02727/352934.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",MASTII
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/622a3500-0aaf-4c82-9ba1-f4ecf731dc79/1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/3NcL7xYn/images-4-22.jpg",ZING MUSIC
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Hindi Hits
+http://global.ncare.live/live-orgin/tehelkatv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Saga music Panjabi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
