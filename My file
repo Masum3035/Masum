@@ -23,7 +23,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=90257&uid=14505&deviceMac=00:1A:79:A7
 http://tv.cloudcdn.me:80/live.ts?channelId=29219&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/M0K68o5.png",Islam tv
-https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8
+https://4gradgmttgwzdecjq8y5o.wslivehls.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=dc67fd8293de04223f670e3b-173046898790143&wsIPSercert=893c923d560889f0721800bce2e2a096&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/6qgzTJPN/b-logo.png",Madani tv bangla
 http://opplex.tv:8080/live/Tahir9221/Raza657586/2.m3u8
