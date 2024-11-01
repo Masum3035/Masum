@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka tv
-http://tv.cloudcdn.me:80/live.ts?channelId=132247&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/10.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
 http://tv.cloudcdn.me:80/live.ts?channelId=132244&uid=14505&deviceMac=00:1A:79:A7:53:75
@@ -26,7 +26,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=29219&uid=14505&deviceMac=00:1A:79:A7
 https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/6qgzTJPN/b-logo.png",Madani tv bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=229&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/2.m3u8
 
 
 
@@ -42,8 +42,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49341&uid=14505&deviceMac=00:1A:79:A7
 ***EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 
 
-***EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245940.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -70,7 +70,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245920.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/1z3pnLkW/Global-Television-Bangladesh-Logo-2.png",Global Tv
 http://ktv.im:8080/live/000111755/Aa1755/83839.m3u8
@@ -80,7 +80,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245909.m3u8
 
 ***#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSIC
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -97,7 +97,7 @@ https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
-http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245913.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla Uk
 https://global.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
@@ -124,7 +124,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=85&uid=14505&deviceMac=00:1A:79:A7:53
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv
-http://tv.cloudcdn.me:80/live.ts?channelId=109&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245924.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=14505&deviceMac=00:1A:79:A7:53:75
@@ -137,7 +137,7 @@ https://global.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Mzolgwz.jpg",CHANNEL S
-http://tv.cloudcdn.me:80/live.ts?channelId=91&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245947.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=90300&uid=14505&deviceMac=00:1A:79:A7:53:75
@@ -147,7 +147,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=90300&uid=14505&deviceMac=00:1A:79:A7
 https://global.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245935.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/fy0tF53n/images-1-6.png",NRB HD Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=14505&deviceMac=00:1A:79:A7:53:75
@@ -199,10 +199,10 @@ https://global.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay News
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245925.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png",ATN News HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245905.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
@@ -211,7 +211,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
-https://utube.buddyxiptv.com/@jamunatvbd.m3u8
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245917.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",71 Tv
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
@@ -223,13 +223,13 @@ http://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245903.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/R02WScWW/1725503726563.jpg",Millennium TV 24
 https://global.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+http://opplex.tv:8080/live/Tahir9221/Raza657586/245914.m3u8
 
 
 #India bangla--------❤️❤️❤️❤️❤️❤️
