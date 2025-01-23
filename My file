@@ -483,13 +483,13 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #hindi movie-----❤️❤️❤️❤️❤️❤️
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="movie",Star utsob
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2844.ts
+http://opplex.tv:8080/live/15155419/16175512/112971.m3u8
 
-#EXTINF:-103 tvg-logo="https://i.postimg.cc/6QMshPqG/1727675931526.png" group-title="movie",Star Gold-
+#EXTINF:-103 tvg-logo="https://i.postimg.cc/6QMshPqG/1727675931526.png" group-title="movie",Star Gold-hd
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2966.ts
 
 #EXTINF:-103 tvg-logo="https://i.postimg.cc/1tLypd7r/images-7.png" group-title="movie",Star Gold Select HD
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2842.ts
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2844.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="movie",Sony Pix HD
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2963.ts
@@ -499,8 +499,8 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2963.t
 #EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="movie",HBO
 http://212.102.60.231/HBO/index.m3u8
 
-***#EXTINF:-1 tvg-id="" tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="movie",SONY MAX SD
-http://xtv.ooo:8080/6199216/619002/66179
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="movie",SONY MAX SD
+http://170.254.18.107/SONYMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="movie",SONY MAX-2
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2962.ts
@@ -516,22 +516,22 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2871.t
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2870.ts
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/2S8NBm8f/1727676257920.png",Star gold
-http://217.20.112.199/stargold/index.m3u8
+http://opplex.tv:8080/live/15155419/16175512/66177.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/4yTr4RFq/1727676368239.jpg",Comedy King
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/jdtGGKfJ/images-10.png",Cinema one
+#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/jdtGGKfJ/images-10.png",Cinema one1
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://shorturl.at/WM0Rl",& Picture HD
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2958.ts
 
-#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/nV9mzrmt/images-16.jpg",Wow cinema
+**#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/nV9mzrmt/images-16.jpg",Wow cinema
 https://cdn2.pishow.tv/live/140/master.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://ibb.co.com/9h5XKr7",B4U kadak
-https://cdn2.pishow.tv/live/160/160_1.m3u8
+http://opplex.tv:8080/live/15155419/16175512/104199.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://ibb.co.com/9h5XKr7",Ktv
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2853.ts
@@ -539,7 +539,7 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2853.t
 #EXTINF:-1 group-title="movie" tvg-logo="https://ibb.co.com/9h5XKr7",Raj tv
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2857.ts
 
-#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/ZRWhm1CJ/images-23.jpg",Bollywood prime
+***#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/ZRWhm1CJ/images-23.jpg",Bollywood prime
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/LXFyLBBZ/images-11.jpg",colour Cineplex 
@@ -555,7 +555,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="movie" tvg-logo="https://ibb.co.com/xC7fnBK",Movie club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
-#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/MT68Ln8f/images-22.jpg",Filamchi Cenema
+**#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/MT68Ln8f/images-22.jpg",Filamchi Cenema
 https://epiconvh.s.llnwi.net/filamchi/master.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://ibb.co.com/rFWRTNL",Bhojputi Cenema
