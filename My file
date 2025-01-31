@@ -351,7 +351,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
-https://live-stream.utkalbongo.com/hls/livebanglaHDstream.m3u8
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/400159618.m3u8
