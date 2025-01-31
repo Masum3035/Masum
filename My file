@@ -1,32 +1,29 @@
 #EXTM3U
 
 
-**#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
-http://tv.cloudcdn.me:80/live.ts?channelId=132244&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png",AL SUNNAH AL NABAWIYAH TV
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/50388.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/afhANph.jpg",Makka tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" peace tv bangla" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg" group-title="Islamic", peace tv bangla❤️
-http://on.deflix.xyz:8880/live/hasan19/hasan1519/1712.m3u8
-
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/qKf0Ih3.png",TV ONE
+***#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/qKf0Ih3.png",TV ONE
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/108779.m3u8
 
 ***#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/J76SsLSF/Peace-TV-official-logo.png",peace tv
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Deen tv" tvg-logo="https://i.postimg.cc/ncC7J5n8/images-5-18.jpg" group-title="Islamic", Deen tv bangla
+***#EXTINF:-1 tvg-id="" tvg-name=" Deen tv" tvg-logo="https://i.postimg.cc/ncC7J5n8/images-5-18.jpg" group-title="Islamic", Deen tv bangla
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/756461.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",IQRA Bangla
-http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1440967.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Peace tv bangla 2
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Peace tv bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8?sid=Ru4hjzC6uEC3oeQozrZQrA&bvr_flags=1&bvr_ch=PeaceTvBangla&bvr_bw=510000
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/M0K68o5.png",Islam tv
-https://4gradgmttgwzdecjq8y5o.wslivehls.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=dc67fd8293de04223f670e3b-173046898790143&wsIPSercert=893c923d560889f0721800bce2e2a096&wsiphost=local&wsBindIP=1
+
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/6qgzTJPN/b-logo.png",Peach tv english
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
@@ -61,7 +58,7 @@ http://xtv.ooo:8080/live/Irfan99383/8888/245940.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Nbw3bKO.png",Probashi Tv
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey Tv
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -91,7 +88,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://xtv.ooo:8080/live/Irfan99383/8888/245920.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/1z3pnLkW/Global-Television-Bangladesh-Logo-2.png",Global Tv
-http://starshare.org:8080/live/hvgjfgg/jdcjdhzd/4231.m3u8
+https://starshare.live/live/KVSingh/KVSingh/4231.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
@@ -100,13 +97,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
-https://starshare.live:443/live/091234/091234/431.m3u8
+https://starshare.live/live/KVSingh/KVSingh/431.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSIC
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/694103.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN Islamic
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/76197.m3u8
+***#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN Islamic
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/761Isl
 
 ***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
 
@@ -238,7 +235,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 https://starshare.live/live/KVSingh/KVSingh/3810.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/R02WScWW/1725503726563.jpg",Millennium TV 24
+***#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/R02WScWW/1725503726563.jpg",Millennium TV 24
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1440987.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
@@ -262,14 +259,17 @@ http://xtv.ooo:8080/live/193747281/8284748291/245906.m3u8
 https://starshare.live/live/KVSingh/KVSingh/4083.m3u8
 
 #❤️❤️❤️❤️❤️❤️
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD RAW
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD ktv
 http://ktv.im:8080/live/122334/122334/83775.ts
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD RAW 2
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD supirno
 http://suprino.xyz/live/PMF3J9X/BV7HG8H/510484.m3u8
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD RAW 3
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD star ★ 
 https://starshare.live/live/KVSingh/KVSingh/3801.m3u8
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD atg100
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510484.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -307,7 +307,7 @@ http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/76194.m3u8
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72156.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png",Star Plus HD
-http://xtv.ooo:8080/live/98267/02727/66166.m3u8
+http://xtv.ooo:8080/live/193747281/8284748291/66166.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/br32Ypww/images-5.jpg",Zee tv
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72135.m3u8
@@ -351,7 +351,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+https://live-stream.utkalbongo.com/hls/livebanglaHDstream.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
 http://extraott-iptv.com:88/live/0229477349/8104258135/400159618.m3u8
@@ -482,7 +482,9 @@ http://opplex.tv:8080/live/15155419/16175512/150478.m3u8
 http://opplex.tv:8080/live/15155419/16175512/314753.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/NDpwAkN.png",Sony Yay
-http://opplex.tv:8080/live/15155419/16175512/26187.m3u8
+https://schedule.mafiatv.live/toffee/live.php?id=sonyyay&e=.m3u8
+
+***http://opplex.tv:8080/live/15155419/16175512/26187.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/nOYdnaK.png",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8
