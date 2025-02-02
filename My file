@@ -68,7 +68,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian tv
-https://starshare.live/live/KVSingh/KVSingh/430.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Dipto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -104,8 +104,8 @@ https://starshare.live/live/KVSingh/KVSingh/431.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSIC
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/694103.m3u8
 
-***#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN Islamic
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/761Isl
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN Islamic
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 
 ***EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
 
@@ -152,7 +152,7 @@ https://starshare.live/live/KVSingh/KVSingh/434.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8?nimblesessionid=505791129
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Mzolgwz.jpg",CHANNEL S
-http://on.deflix.xyz:8880/live/hasan19/hasan1519/16580.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
 https://starshare.live/live/KVSingh/KVSingh/411.m3u8
