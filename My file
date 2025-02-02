@@ -170,7 +170,8 @@ https://starshare.live/live/KVSingh/KVSingh/1000.m3u8
 https://starshare.live/live/KVSingh/KVSingh/3814.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-https://starshare.live/live/KVSingh/KVSingh/767.m3u8
+http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
+**https://starshare.live/live/KVSingh/KVSingh/767.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 https://starshare.live/live/KVSingh/KVSingh/3802.m3u8
