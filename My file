@@ -46,7 +46,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8?sid=dG7jAPdCCk-
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV National
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/78946.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
+**http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/78946.m3u8
 
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2912.ts
@@ -94,17 +95,18 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://161.248.188.202/visionhd/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
-http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
 
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
 https://starshare.live/live/KVSingh/KVSingh/397.m3u8
 **http://xtv.ooo:8080/live/Irfan99383/8888/245920.m3u8
 
-***#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
-https://starshare.live/live/KVSingh/KVSingh/431.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
+**https://starshare.live/live/KVSingh/KVSingh/431.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
-http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/master.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/34665.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
@@ -112,7 +114,7 @@ http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 **https://starshare.live/live/KVSingh/KVSingh/3799.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv
-http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 *http://starshare.live:8080/live/74998/74998/424.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
@@ -227,28 +229,28 @@ http://line.4k-beast.co:80/live/c023:8d:96:15:22/44D11F/1440994.m3u8
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay News
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png",ATN News HD
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/sonamul.haq.siyam.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/427.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent tv
-http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/423.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/391.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
-http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/1701.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/421.m3u8
 
 **http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2977.ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",71 Tv
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/428.m3u8
 
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/MHXbGyvd/unnamed-1.png",Jago News 24
@@ -512,7 +514,8 @@ http://lkn1.chowdhury-shaheb.com/nick/index.m3u8
 https://schedule.mafiatv.live/toffee/live.php?id=sonyyay&e=.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/T348jbSX/images-17.jpg",Cartoon Network hindi
-http://opplex.tv:8080/live/15155419/16175512/150478.m3u8
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+**http://opplex.tv:8080/live/15155419/16175512/150478.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/PrdkdTZ0/images-15.jpg",Sonic
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510220.m3u8
@@ -987,7 +990,8 @@ http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/809074.m3u8
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72157.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/qRxvTrkD/DgohqQfU.png",Music India
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72218.m3u8
+https://cdn-2.pishow.tv/live/226/226_1.m3u8
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/72218.m3u8
 *http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72218.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",MASTII
