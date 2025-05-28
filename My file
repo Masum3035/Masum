@@ -52,7 +52,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2912.ts
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV News 
+**#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV News 
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 *http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/928141.m3u8
 
@@ -76,7 +76,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Dipto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv
+**#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
@@ -91,7 +91,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/xTXj0pZ6/images-36.png",Deshi tv bangla
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/xTXj0pZ6/images-36.png",Vision tv
+**#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/xTXj0pZ6/images-36.png",Vision tv
 http://161.248.188.202/visionhd/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
