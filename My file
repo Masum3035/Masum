@@ -70,11 +70,11 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 ***https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
-https://mytvbangla.com/0.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Dipto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
+https://mytvbangla.com/0.m3u8
 
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -94,13 +94,13 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/xTXj0pZ6/images-36.png",Vision tv
 http://161.248.188.202/visionhd/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/master.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/397.m3u8
 **http://xtv.ooo:8080/live/Irfan99383/8888/245920.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/master.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/master.m3u8
