@@ -476,8 +476,8 @@ http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72168.m3u8
 **#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Bangla
 https://starshare.live/live/KVSingh/KVSingh/406.m3u8
 
-**#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
-https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
 
 **#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/sODmXS5.jpg",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -805,7 +805,7 @@ http://ktv.im:8080/live/000111755/Aa1755/49607.m3u8
 http://ktv.im:8080/live/000111755/Aa1755/49610.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png",Euro sports 1
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+http://185.189.225.157/EuroSport1/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3pGk3jj",Ten Sports
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/63176.m3u8
