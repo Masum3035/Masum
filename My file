@@ -58,8 +58,8 @@ http://38.96.178.201/live/BTVWorld/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
 *http://xtv.ooo:8080/live/Irfan99383/8888/245940.m3u8
 
-**#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/108799.m3u8
 *http://starshare.live:8080/live/74998/74998/390.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Nbw3bKO.png",Probashi Tv
@@ -122,8 +122,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 *+http://38.96.178.201/live/BijoyTV/index.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/408.m3u8
 
-**#EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian tv
-http://38.96.178.201/live/AsianTV/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian tv
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440997.m3u8
 *+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 **#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
@@ -323,20 +323,23 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 http://watchindia.net:8880/live/96203/07108/2295.ts
 *http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/808975.m3u8
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/XqQLS0Qc/Dd-Bangla.png",DD Bangla
-https://starshare.live/live/KVSingh/KVSingh/4049.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/XqQLS0Qc/Dd-Bangla.png",DD Bangla
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/108809.m3u8
+*https://starshare.live/live/KVSingh/KVSingh/4049.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="https://i.postimg.cc/MHTqjvNh/image.jpg" group-title="Indian Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-**#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/QNJ4qT3c/image.png" group-title="Indian Bangla",Zee 24 Ghanta
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/QNJ4qT3c/image.png" group-title="Indian Bangla",Zee 24 Ghanta
+https://tvsen6.aynaott.com/zee24/index.m3u8
+*http://atg100.xyz:80/live/UL33K17/SYC4T9D/72323.m3u8
 
 
 
 #❤️❤️❤️❤️❤️❤️
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD ktv
-http://ktv.im:8080/live/122334/122334/83775.ts
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD 4k
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/126105.m3u8
+*http://ktv.im:8080/live/122334/122334/83775.ts
 
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD supirno
 http://suprino.xyz/live/PMF3J9X/BV7HG8H/510484.m3u8
@@ -375,8 +378,9 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/76205.m3u8
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",COLOR BANGLA CINEMA
-https://starshare.live/live/KVSingh/KVSingh/271038.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",COLOR BANGLA CINEMA
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440968.m3u8
+*https://starshare.live/live/KVSingh/KVSingh/271038.m3u8
 
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://toffee.yflix.top/live.php?id=3a4a0ceff620&e=.m3u8
@@ -719,8 +723,8 @@ http://on.deflix.xyz:8880/live/hasan19/hasan1519/3356.m3u8
 **#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/R0rPhysM/images-26.jpg",STAR MOVIES Select
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1020182.m3u8
 
-**#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/R0rPhysM/images-26.jpg",STAR MOVIES
-http://on.deflix.xyz:8880/live/hasan19/hasan1519/1673.m3u8
+#EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/R0rPhysM/images-26.jpg",STAR MOVIES
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/QCPzbtb7/images-27.png",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
