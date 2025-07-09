@@ -426,18 +426,19 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 +
 
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/br32Ypww/images-5.jpg",Colors HD
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/br32Ypww/images-5.jpg",Colors HD
+http://watchindia.net:8880/live/96203/07108/2264.ts
 ***http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72156.m3u8
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png",Star Plus HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1019856.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png",Star Plus HD
+http://watchindia.net:8880/live/96203/07108/1924.ts
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/1019856.m3u8
 *http://xtv.ooo:8080/live/193747281/8284748291/66166.m3u8
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/br32Ypww/images-5.jpg",Zee tv
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020703.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/br32Ypww/images-5.jpg",Zee tv
+http://watchindia.net:8880/live/96203/07108/1970.ts
+*http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020703.m3u8
 *http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72135.m3u8
-
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/jjy9tth6/images-18.jpg",Sony kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -448,8 +449,9 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.https://i.postimg.cc/KYVnqMTJ/images-20.jpg",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.https://i.postimg.cc/KYVnqMTJ/images-20.jpg",Utsav bharat
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72140.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.https://i.postimg.cc/KYVnqMTJ/images-20.jpg",Star utsav
+http://watchindia.net:8880/live/96203/07108/2493.ts
+*http://atg100.xyz:80/live/UL33K17/SYC4T9D/72140.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",Sony entertainment
 http://195.181.169.162/SONY_HD/index.m3u8?token=test
