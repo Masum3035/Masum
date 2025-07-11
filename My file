@@ -50,7 +50,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8?sid=dG7jAPdCCk-
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
 **http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/78946.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV News 
+**#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV News 
 http://38.96.178.201/live/BTVWorld/index.m3u8
 *http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/928141.m3u8
 
@@ -877,7 +877,8 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/348285.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/191773.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",TNT SPORTS 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/846012.m3u8
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+*http://atg100.xyz:80/live/UL33K17/SYC4T9D/846012.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",TNT SPORTS 2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/846013.m3u8
