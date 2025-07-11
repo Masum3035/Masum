@@ -312,6 +312,7 @@ http://watchindia.net:8880/live/96203/07108/2290.ts
 
 #EXTINF:-1http://atg100.xyz:80/live/UL33K17/SYC4T9D/78972.m3u8 group-title="India Bangla" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
 http://38.96.178.201/live/SonyAath/index.m3u8
+*+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/78972.m3u8
 *-https://starshare.live/live/KVSingh/KVSingh/4083.m3u8
 
@@ -523,8 +524,8 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/808811.m3u8
 *http://watchindia.net:8880/live/55901/63571/2038.m3u8
 
 
-**#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/3wG8bhPN/images-23.jpg" group-title="Documentary", TRAVELXP
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.postimg.cc/3wG8bhPN/images-23.jpg" group-title="Documentary", TRAVELXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 **#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="Documentary", FOOD FOOD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1155473.m3u8
@@ -770,7 +771,8 @@ https://starshare.live/live/KVSingh/KVSingh/274176.m3u8
 https://starshare.live/live/KVSingh/KVSingh/274177.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="sports",BeIN Sports 3
-https://starshare.live/live/KVSingh/KVSingh/274178.m3u8
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+**https://starshare.live/live/KVSingh/KVSingh/274178.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="sports",BeIN Sports 4
 https://starshare.live/live/KVSingh/KVSingh/274179.m3u8
@@ -779,7 +781,8 @@ https://starshare.live/live/KVSingh/KVSingh/274179.m3u8
 https://starshare.live/live/KVSingh/KVSingh/274180.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/Sx00vM6S/images-2.png",BeIN Sports 6
-https://starshare.live/live/KVSingh/KVSingh/274181.m3u8
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+*https://starshare.live/live/KVSingh/KVSingh/274181.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/KcHhtV4g/1727615221808.png",BeIN Sports 7
 https://starshare.live/live/KVSingh/KVSingh/274182.m3u8
@@ -982,6 +985,9 @@ https://starshare.live/live/KVSingh/KVSingh/231126.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/sW7XWTN",Sports Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/sW7XWTN",Sports Italia plus
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/RCDC8Lp7/qc-Dz-Pk-Ebe-NQ8o-II0w-Ic5-FGUa-Rf-Ug1-BSQI5-MDGz-T5-SX2-IFFw-Rdu-FL9rt-Wd-Maej-YCKt-AZIA9-E20w-s900-c-k-c0x00ffffff-no-r.jpg",Rta Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
