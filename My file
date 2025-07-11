@@ -735,10 +735,12 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #soports-------❤️❤️❤️❤️❤️❤️
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.imgur.com/6ezUY5q.png",ESPN
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/71936.m3u8
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/181.ts
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/71936.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s",ESPN-2
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/71935.m3u8
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/179.ts
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/71935.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/SN9r4t0F/TSN2-HD.png",TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
@@ -1002,7 +1004,8 @@ https://starshare.live/live/KVSingh/KVSingh/4945.m3u8
 https://starshare.live/live/KVSingh/KVSingh/123061.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 1 HD
-https://starshare.live/live/KVSingh/KVSingh/54.m3u8
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/181.ts
+**https://starshare.live/live/KVSingh/KVSingh/54.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 2 HD
 https://starshare.live/live/KVSingh/KVSingh/55.m3u8
