@@ -99,18 +99,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 **http://xtv.ooo:8080/live/Irfan99383/8888/245920.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+http://tv.bdiptv.store:80/live/restreax/refstream/75.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/3799.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv
-http://38.96.178.201/live/NTV/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1702.m3u8
 *http://starshare.live:8080/live/74998/74998/424.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision
-http://38.96.178.201/live/BanglaVision/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1702.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
-http://38.96.178.201/live/ChannelI/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1702.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/34665.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",ATN BANGLA
@@ -126,8 +126,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440997.m3u8
 *+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
-**#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/108803.m3u8
 *+http://38.96.178.201/live/Channel9/index.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/434.m3u8
 
@@ -146,8 +146,8 @@ https://starshare.live/live/KVSingh/KVSingh/411.m3u8
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/809032.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-http://38.96.178.201/live/GaziTV/index.m3u8
-*+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+http://tv.bdiptv.store:80/live/restreax/refstream/87.m3u8
 *http://starshare.live:8080/live/74998/74998/767.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
@@ -156,7 +156,7 @@ https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/3814.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png",Ekhon Tv
-http://38.96.178.201/live/EkhonTV/index.m3u8
+http://tv.bdiptv.store:80/live/restreax/refstream/85.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/sYZOVV5.png",Anando Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
@@ -261,6 +261,7 @@ https://tvsen6.aynaott.com/channel24/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
+*+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/421.m3u8
 
 **http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2977.ts
@@ -279,8 +280,8 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://tvsen6.aynaott.com/news24/index.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/3810.m3u8
 
-**#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/R02WScWW/1725503726563.jpg",Millennium TV 24
-http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/R02WScWW/1725503726563.jpg",Millennium TV 24
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440987.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
 https://tvsen6.aynaott.com/dbcnews/index.m3u8?
@@ -338,12 +339,12 @@ https://tvsen6.aynaott.com/zee24/index.m3u8
 
 
 #❤️❤️❤️❤️❤️❤️
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD 4k
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD r
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/126105.m3u8
 *http://ktv.im:8080/live/122334/122334/83775.ts
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD bd
-http://tv.bdiptv.store:80/live/restreax/refstream/157.m3u8
+**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/126105.m3u8
 
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD star ★ 
 http://starshare.live:8080/live/74998/74998/3801.m3u8
@@ -376,8 +377,9 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/76205.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1458372.m3u8
+*http://atg100.xyz:80/live/UL33K17/SYC4T9D/76205.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.posupirc/bY79PVQB/images-5-28.jpg",COLOR BANGLA CINEMA
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440968.m3u8
@@ -385,7 +387,7 @@ http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440968.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/271038.m3u8
 
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
-https://toffee.yflix.top/live.php?id=3a4a0ceff620&e=.m3u8
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/108845.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/49615.m3u8
 
 ***http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2908.ts
@@ -422,7 +424,7 @@ http://103.124.251.164:28015/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="India Bangla", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/pLQkKvMw/images-3.jpg",Rongeen tv Bangla
+**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/pLQkKvMw/images-3.jpg",Rongeen tv Bangla
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 +
@@ -489,8 +491,9 @@ http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72168.m3u8
 ***http://watchindia.net:8880/live/55901/63571/2039.m3u8
 ***http://atg100.xyz:80/live/UL33K17/SYC4T9D/72168.m3u8
 
-**#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Bangla
-https://starshare.live/live/KVSingh/KVSingh/406.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Bangla
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440964.m3u8
+*https://starshare.live/live/KVSingh/KVSingh/406.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
