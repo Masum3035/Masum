@@ -342,8 +342,8 @@ https://tvsen6.aynaott.com/zee24/index.m3u8
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/126105.m3u8
 *http://ktv.im:8080/live/122334/122334/83775.ts
 
-**#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD supirno
-http://suprino.xyz/live/PMF3J9X/BV7HG8H/510484.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD bd
+http://tv.bdiptv.store:80/live/restreax/refstream/157.m3u8
 
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD star ★ 
 http://starshare.live:8080/live/74998/74998/3801.m3u8
@@ -379,7 +379,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 **#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/76205.m3u8
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",COLOR BANGLA CINEMA
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.posupirc/bY79PVQB/images-5-28.jpg",COLOR BANGLA CINEMA
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/1440968.m3u8
 ★+http://37.49.225.170:8080/live/test/test/522609.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/271038.m3u8
@@ -546,9 +546,14 @@ https://starshare.live/live/KVSingh/KVSingh/3808.m3u8
 **#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/FHR5JpTZ/images-16.jpg",Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-**#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/YTfbaxj.png",Nicke
-http://lkn1.chowdhury-shaheb.com/nick/index.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/YTfbaxj.png",Nicke bangla
+http://tv.bdiptv.store:80/live/restreax/refstream/96.m3u8
 *http://opplex.tv:8080/live/15155419/16175512/76722.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/PrdkdTZ0/images-15.jpg",Sonic bangla
+http://tv.bdiptv.store:80/live/restreax/refstream/242.m3u8
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/510220.m3u8
+*http://opplex.tv:8080/live/15155419/16175512/34011.m3u8
 
 **#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/NDpwAkN.png",Sony Yay
 https://toffee.yflix.top/live.php?id=57bd9c2493c1&e=.m3u8
@@ -556,10 +561,6 @@ https://toffee.yflix.top/live.php?id=57bd9c2493c1&e=.m3u8
 **#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/T348jbSX/images-17.jpg",Cartoon Network hindi
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 **http://opplex.tv:8080/live/15155419/16175512/150478.m3u8
-
-**#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/PrdkdTZ0/images-15.jpg",Sonic
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510220.m3u8
-*http://opplex.tv:8080/live/15155419/16175512/34011.m3u8
 
 **#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD
 http://xtv.ooo:8080/live/193747281/8284748291/167551.m3u8
@@ -1082,8 +1083,8 @@ https://sabliveyupp.akamaized.net/mastii/mastii_poc_800k.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/L6X6rGGv/images-34.jpg",ZING
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/72137.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/L6X6rGGv/images-34.jpg",MTV FHD
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510200.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/L6X6rGGv/images-34.jpg",MTV
+http://tv.bdiptv.store:80/live/restreax/refstream/243.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/qRxvTrkD/DgohqQfU.png",MTV BEATS HD
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72215.m3u8
