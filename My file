@@ -803,19 +803,23 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123480.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/m95g3KB",SSC 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123464.m3u8
+https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123464.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/xCwM3qg",SSC 2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123465.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/jfgJMgs",SSC 3
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123466.m3u8
+https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123466.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/m4M23p0",SSC 4
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123467.m3u8
+https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123467.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/hLrVy8T",SSC 5
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123477.m3u8
+https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
+*http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123477.m3u8
 
 
 ***#EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/tJSLHS8V/images-15.jpg",BeIN Sports 1 DIRECT
@@ -831,7 +835,7 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/63176.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3pGk3jj",Ten cricket
-https://toffee.yflix.top/live.php?id=f76c7eb00da0&e=.m3u8
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
 
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
@@ -862,10 +866,21 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090639.m3u8
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090640.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Sony Ten 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052689.m3u8
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+**http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052689.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Sony Ten 2
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+**http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Sony Ten 3
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Sony Ten 4
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Sony Ten 5
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Support sports cricket
 http://starshare.fun/live/home123/home123/158442.m3u8
