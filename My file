@@ -755,24 +755,24 @@ http://filex.tv:8080/live/Multicity/1234/62393.m3u8
 http://38.96.178.201/live/PTVSports/index.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/63125.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 1 HD
+#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/13e1ff38",Star Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 *http://filex.tv:8080/live/Multicity/1234/52094.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 2 HD
+#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/cc77312d",Star Sports 2 HD
 http://filex.tv:8080/live/Multicity/1234/52096.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports 3 HD
+#EXTINF:-1 group-title="sports" tvg-logo="http://tv.cloudcdn.me/images/starsports3.png",Star Sports 3 HD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090638.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",Star Sports Hindi 1 
+#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect1HD.jpg",Star Sports Hindi 1 
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",Star Sports Select 1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090639.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg",Star Sports Select 2
+#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect2HD.png",Star Sports Select 2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090640.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Sony Ten 1
@@ -899,22 +899,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 ***#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports Extra 2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123480.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/m95g3KB",SSC 1
+#EXTINF:-1 group-title="sports" tvg-logo="https://img.logo-cdn.cc/ssc1.png",SSC 1
 https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123464.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/xCwM3qg",SSC 2
+#EXTINF:-1 group-title="sports" tvg-logo="https://img.logo-cdn.cc/ssc2.png",SSC 2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123465.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/jfgJMgs",SSC 3
+#EXTINF:-1 group-title="sports" tvg-logo="https://img.logo-cdn.cc/ssc3.png",SSC 3
 https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123466.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/m4M23p0",SSC 4
+#EXTINF:-1 group-title="sports" tvg-logo="https://img.logo-cdn.cc/ssc4.png",SSC 4
 https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123467.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/hLrVy8T",SSC 5
+#EXTINF:-1 group-title="sports" tvg-logo="https://img.logo-cdn.cc/ssc5.png",SSC 5
 https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/1123477.m3u8
 
