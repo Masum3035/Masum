@@ -551,7 +551,7 @@ https://starshare.live/live/KVSingh/KVSingh/3808.m3u8
 **#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/FHR5JpTZ/images-16.jpg",Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/YTfbaxj.png",Nicke bangla
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/f2c16698ad5fdc4731899cd1838f8469.png",Nicke bangla
 http://tv.bdiptv.store:80/live/restreax/refstream/96.m3u8
 *http://opplex.tv:8080/live/15155419/16175512/76722.m3u8
 
@@ -921,16 +921,16 @@ https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png",Euro sports 1
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Support sports action
+#EXTINF:-1 group-title="sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png",Support sports action
 http://extraott-iptv.com:88/live/0229477349/8104258135/190015.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Support sports laliga
+#EXTINF:-1 group-title="sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png",Support sports laliga
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/348283.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Support sports football
+#EXTINF:-1 group-title="sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png",Support sports football
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/348285.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3v7m91X",Support sports maximo 
+#EXTINF:-1 group-title="sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png",Support sports maximo 
 http://extraott-iptv.com:88/live/0229477349/8104258135/191773.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",ELEVEN SPORTS 5
@@ -972,7 +972,7 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/1052682.m3u8
 ***EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Bein Sports 1 EN
+#EXTINF:-1 group-title="sports" tvg-logo="http://tv.cloudcdn.me/images/cd30f56.png",Bein Sports 1 EN
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/552082.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/0yDZxXwK/1726054239-Tsports-Banner.png",T Sports BD
@@ -1101,7 +1101,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020719.m3u8
 *http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1020719.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ibb.co.com/2kzYFF2",MTV MUSIC
+#EXTINF:-1 group-title="Music" tvg-logo="http://ujm.from-in.com/panel/imageicon/78c8cc9.png",MTV MUSIC
 http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/694140.m3u8
 ***http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72216.m3u8
 
