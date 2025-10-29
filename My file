@@ -851,8 +851,8 @@ http://filex.me:8080/live/000003/000003/529247.m3u8
 http://filex.me:8080/live/000003/000003/529251.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/846014.m3u8
 
-**#EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 4
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/846015.m3u8
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 4
+http://filex.me:8080/live/000003/000003/495261.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/6f51588c",ESPN
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/181.ts
@@ -1023,7 +1023,7 @@ http://tv14s.xyz:8080/live/n7NX45/216258/167744.ts
 http://tv14s.xyz:8080/live/n7NX45/216258/167745.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/N0PxxhhV/images-30.png",SPORT TV 5
-http://xtv.ooo:8080/live/193747281/8284748291/352934.m3u8
+http://filex.me:8080/live/000003/000003/316805.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/LnYyGT4",TYC SPORTS
 https://tiger-hub.vercel.app/TYC_Sports-Argentina/tracks-v1a1/mono.m3u8
@@ -1038,7 +1038,7 @@ https://starshare.live/live/KVSingh/KVSingh/231126.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/sW7XWTN",Sports Italia plus
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+http://filex.me:8080/live/000003/000003/293287.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/RCDC8Lp7/qc-Dz-Pk-Ebe-NQ8o-II0w-Ic5-FGUa-Rf-Ug1-BSQI5-MDGz-T5-SX2-IFFw-Rdu-FL9rt-Wd-Maej-YCKt-AZIA9-E20w-s900-c-k-c0x00ffffff-no-r.jpg",Rta Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
@@ -1048,35 +1048,35 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 **https://starshare.live/live/KVSingh/KVSingh/137668.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/vDFJyTVs/220px-WWE-Network-logo.jpg",Wwe
-http://line.ultrab.xyz:80/live/ZeeALI1/465841/362737.m3u8
+http://filex.me:8080/live/000003/000003/509260.m3u8
 *+https://smart.bengaldigital.live/WWE/index.m3u8
 *https://starshare.live/live/KVSingh/KVSingh/4945.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 1 HD
-http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/181.ts
+http://filex.me:8080/live/000003/000003/291052.m3u8
 **https://starshare.live/live/KVSingh/KVSingh/54.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 2 HD
-https://starshare.live/live/KVSingh/KVSingh/55.m3u8
+http://filex.me:8080/live/000003/000003/291053.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 501
 http://filex.me:8080/live/000003/000003/247166.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 502
-http://extraott-iptv.com:88/live/0229477349/8104258135/355748.m3u8
+http://filex.me:8080/live/000003/000003/819582.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 503
-http://extraott-iptv.com:88/live/0229477349/8104258135/355749.m3u8
+http://filex.me:8080/live/000003/000003/499777.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 504
 http://extraott-iptv.com:88/live/0229477349/8104258135/355750.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 505
-http://extraott-iptv.com:88/live/0229477349/8104258135/400365590.m3u8
+http://filex.me:8080/live/000003/000003/819586.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 506
-http://extraott-iptv.com:88/live/0229477349/8104258135/355751.m3u8
+http://filex.me:8080/live/000003/000003/499782.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 507
 http://extraott-iptv.com:88/live/0229477349/8104258135/400365591.m3u8
