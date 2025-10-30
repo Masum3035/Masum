@@ -87,7 +87,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/MTd9pTfB/images-19.jpg",Matrabhoomi tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/xTXj0pZ6/images-36.png",Deshi tv bangla
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -309,7 +309,7 @@ http://filex.me:8080/live/000003/000003/522638.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/76204.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/Dz6498B6/unnamed.jpg",Zee Bangla HD 
-http://filex.me:8080/live/000003/000003/819542.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
 *+http://watchindia.net:8880/live/96203/07108/2283.ts
 *+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/34731.m3u8
