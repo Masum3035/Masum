@@ -773,7 +773,7 @@ http://filex.me:8080/live/000003/000003/658436.m3u8
 
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
-http://filex.me:8080/live/000003/000003/190767.m3u8
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804.m3u8
 *+http://filex.tv:8080/live/Multicity/1234/62393.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",CRI: PTV SPORTS HD
@@ -838,7 +838,7 @@ http://filex.me:8080/live/000003/000003/52109.m3u8
 *http://filex.tv:8080/live/Multicity/1234/52109.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/SQCBTdZR/Astro-Cricket.png",Astro Cricket
-http://filex.me:8080/live/000003/000003/451415.m3u8
+http://iptvtree.net:8080/F28312/cc1dc138/157565.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 1
 http://filex.me:8080/live/000003/000003/529243.m3u8
