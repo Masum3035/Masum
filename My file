@@ -303,21 +303,17 @@ https://jolshabd.com/live/mbanglatv/playlist.m3u8
 
 #India bangla--------❤️❤️❤️❤️❤️❤️
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 http://filex.me:8080/live/000003/000003/522638.m3u8
-*+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
-*+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
-*http://atg100.xyz:80/live/UL33K17/SYC4T9D/76204.m3u8
+*
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/Dz6498B6/unnamed.jpg",Zee Bangla HD 
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
-*+http://watchindia.net:8880/live/96203/07108/2283.ts
 *+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
-*http://atg100.xyz:80/live/UL33K17/SYC4T9D/34731.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="http://ujm.from-in.com/panel/imageicon/0470894.png",Colors Bangla HD 
-http://filex.me:8080/live/000003/000003/522653.m3u8
-*+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+**https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla HD
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
