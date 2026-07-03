@@ -758,9 +758,17 @@ http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #soports-------❤️❤️❤️❤️❤️❤️
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/tJSLHS8V/images-15.jpg",BeIN Sports 1 DIRECT WL
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",BeIN Sports 2 DIRECT WL
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/0yDZxXwK/1726054239-Tsports-Banner.png",T Sports BD
 http://116.204.149.16/t_sports/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay tv
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png",Ten Sports
 http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/400201956.m3u8
@@ -912,12 +920,6 @@ https://starshare.live/live/KVSingh/KVSingh/274183.m3u8
 
 **#EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/wjT6VJg1/images-3.png",BeIN Sports AFC
 http://ktv.im:8080/live/000111755/Aa1755/49543.m3u8
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/tJSLHS8V/images-15.jpg",BeIN Sports 1 DIRECT WL
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",BeIN Sports 2 DIRECT WL
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="sports",BeIN Sports Extra 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
