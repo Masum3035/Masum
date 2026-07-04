@@ -502,8 +502,8 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/764019.m3u8
 
 **http://xtv.ooo:8080/live/193747281/8284748291/238540.m3u8
 
-**#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/c45dx6W6/Animal-planet.png",Animal Planet
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/72168.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/c45dx6W6/Animal-planet.png",Animal Planet
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=EueA9Tw45u9bbZaWiT&e=.m3u8
 ***http://watchindia.net:8880/live/55901/63571/2039.m3u8
 ***http://atg100.xyz:80/live/UL33K17/SYC4T9D/72168.m3u8
 
@@ -520,16 +520,16 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 **#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.postimg.cc/wvc6gVxd/images-21.jpg" group-title="Documentary", CGTN DOCUMENTARY
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 
-**#EXTINF:-1 group-title="Documentary" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/34690.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=yQ1Mp0ktb0tFanN2rb&e=.m3u8
 *http://watchindia.net:8880/live/55901/63571/789.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/W3P2BKvn/images-19.jpg",Discovery Science
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/70079.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=csTbFKmnQhLd2KQcd8&e=.m3u8
 **http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/12.m3u8
 
-**#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/mkLTDHh1/images-20.jpg",Discovery Turbo
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/808980.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/mkLTDHh1/images-20.jpg",Discovery Turbo
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=2Z4u9liEjMfcXIMSRq&e=.m3u8
 *http://iptv12k.com:35461/live/654321/123456/5389.m3u8
 
 ***#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/9Q3NYjtJ/images-24.jpg",Discovery Hindi
@@ -732,7 +732,7 @@ https://epiconvh.s.llnwi.net/filamchi/master.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://ibb.co.com/rFWRTNL",Bhojputi Cenema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-*+https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
+*+https://e-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/8zc4ZD3k/images-25.png",Pitaara movie
 http://212.102.34.8:9080/Pitaara/index.m3u8
 
@@ -759,22 +759,28 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #soports-------❤️❤️❤️❤️❤️❤️
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/tJSLHS8V/images-15.jpg",BeIN Sports 1 DIRECT WL
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-
-#EXTINF:-1 group-title="sports" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",BeIN Sports 2 DIRECT WL
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/FzphkV89/images-14.jpg",BeIN Sports 4k
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",Caze tv Br
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/0yDZxXwK/1726054239-Tsports-Banner.png",T Sports BD
-http://116.204.149.16/t_sports/index.m3u8
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png",Ten Sports
-http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/400201956.m3u8
+#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png",Football 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png",BBC Sport 
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19190/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/3pGk3jj",Ten cricket
-http://filex.me:8080/live/000003/000003/658436.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=xEy212C3qN1T8GKaqM&e=.m3u8
 
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
@@ -864,7 +870,7 @@ http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/181.ts
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/71936.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s",ESPN-2
-http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/179.ts
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19154/index.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/71935.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/SN9r4t0F/TSN2-HD.png",TSN 1
@@ -891,8 +897,7 @@ http://filex.me:8080/live/000003/000003/683626.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/x1cvc6q5/1727618153454.png",BeIN Sports 2 EN
 http://filex.me:8080/live/000003/000003/683623.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/FzphkV89/images-14.jpg",BeIN Sports 1
-http://filex.me:8080/live/000003/000003/683620.m3u8
+#
 **https://starshare.live/live/KVSingh/KVSingh/274176.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="sports",BeIN Sports 2
@@ -1060,7 +1065,7 @@ http://filex.me:8080/live/000003/000003/291053.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 501
-http://filex.me:8080/live/000003/000003/247166.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 502
 http://filex.me:8080/live/000003/000003/819582.m3u8
