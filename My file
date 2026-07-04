@@ -791,11 +791,11 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=xEy212C3qN1T8GKaqM&e=.m3u8
 
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/804.m3u8
+http://172.19.17.202:8090/hls/eurosportshd.m3u8
 *+http://filex.tv:8080/live/Multicity/1234/62393.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",CRI: PTV SPORTS HD
-http://filex.me:8080/live/000003/000003/250211.m3u8
+http://172.19.17.202:8090/hls/ptvsportshd.m3u8
 +*http://38.96.178.201/live/PTVSports/index.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/63125.m3u8
 
@@ -805,7 +805,7 @@ http://filex.me:8080/live/000003/000003/52094.m3u8
 *http://filex.tv:8080/live/Multicity/1234/52094.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/cc77312d",Star Sports 2 HD
-http://filex.me:8080/live/000003/000003/52096.m3u8
+http://172.19.17.202:8090/hls/StarSports2HD.m3u8
 *http://filex.tv:8080/live/Multicity/1234/52096.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://tv.cloudcdn.me/images/starsports3.png",Star Sports 3 HD
@@ -817,7 +817,7 @@ http://filex.me:8080/live/000003/000003/90342.m3u8
 **http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",Star Sports Select 1
-http://66.102.120.18:8000/play/a06x/index.m3u8
+http://172.19.17.202:8090/hls/StarSportsSelect1HD.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect2HD.png",Star Sports Select 2
 http://66.102.120.18:8000/play/a06y/index.m3u8
@@ -831,13 +831,13 @@ http://66.102.120.18:8000/play/a01y/index.m3u8
 **http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2836.ts
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/panel/imageicon/3a556ed.png",Sony Ten 3
-http://103.122.252.100:8080/SONY-TEN-3/index.fmp4.m3u8?token=0416e99b7bdc6d4470736881336d7b3b8f58d7d6-7c855db5d0543eff1a4b5cc8f9af93e5-1756013340-1756002540
+http://172.19.17.202:8090/hls/SonyTen2hd.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/panel/imageicon/eb923d9.png",Sony Ten 4
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/panel/imageicon/9327ac5.png",Sony Ten 5
-http://filex.me:8080/live/000003/000003/453435.m3u8
+http://172.19.17.202:8090/hls/SonyTen3hd.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yxcVcwh7/images-29.jpg",Criclife 1
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad57842301/level_0.m3u8
