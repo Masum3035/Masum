@@ -492,8 +492,8 @@ http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/510260.m3u8
 
 #Documentary-----+❤️❤️❤️❤️❤️
 
-**#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72220.m3u8
+৳#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic
+http://202.70.146.135:8000/play/a05o/index.m3u8
 *http://xtv.ooo:8080/live/danyear12/am809100/206285.m3u8
 
 **#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Wild
@@ -772,6 +772,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/0yDZxXwK/1726054239-Tsports-Banner.png",T Sports BD
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+http://103.209.196.22:84/feed1001/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
