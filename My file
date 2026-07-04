@@ -740,7 +740,7 @@ http://212.102.34.8:9080/Pitaara/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 
 #EXTINF:-1 group-title="movie" tvg-logo="https://i.postimg.cc/R0rPhysM/images-26.jpg",HBO
-http://212.102.60.231/HBO/index.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19046/index.m3u8
 
 axn
 http://125hvt.ddns.net:21585/axn/index.m3u8
@@ -858,18 +858,18 @@ http://filex.me:8080/live/000003/000003/52109.m3u8
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 1
-http://filex.me:8080/live/000003/000003/529243.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19051/index.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/846012.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 2
 http://filex.me:8080/live/000003/000003/529247.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 3
-http://filex.me:8080/live/000003/000003/529251.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19053/index.m3u8
 *http://atg100.xyz:80/live/UL33K17/SYC4T9D/846014.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 4
-http://filex.me:8080/live/000003/000003/495261.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19054/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/6f51588c",ESPN
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/181.ts
@@ -889,7 +889,7 @@ http://212.102.60.231/TSN_2/index.m3u8
 http://212.102.60.231/TSN_3/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/pXQFqNbT/images-13.png",TSN 4
-http://212.102.60.231/TSN_4/index.m3u8
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19054/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/pXQFqNbT/images-13.png",TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
@@ -1045,7 +1045,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://starshare.live/live/KVSingh/KVSingh/231126.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/sW7XWTN",Sports Italia
-http://mytv-extra.com:88/live/1827214806/9371309264/194535.ts
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19109/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://ibb.co.com/sW7XWTN",Sports Italia plus
 http://filex.me:8080/live/000003/000003/293287.m3u8
