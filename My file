@@ -771,7 +771,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ibb.co.com/1vprc38",Fox Sport 1 HD
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8
 
-EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV National
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV National
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/0yDZxXwK/1726054239-Tsports-Banner.png",T Sports BD
@@ -779,7 +779,7 @@ http://172.19.17.202:8090/hls/tsportshd3rd.m3u8
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay tv
-http://172.19.17.202:8090/hls/somoytv.m3u8
+http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png",Football 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
