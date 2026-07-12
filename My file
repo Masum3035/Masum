@@ -779,7 +779,7 @@ http://172.19.17.202:8090/hls/tsportshd.m3u8
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay tv
-http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
+103.114.11.37:8081/SOMOY-TV/index.m3u8?token=1dsfds1fsdf
 
 #EXTINF:-1 group-title="sports" tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png",Football 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
