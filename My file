@@ -760,7 +760,7 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #soports-------❤️❤️❤️❤️❤️❤️
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/tJSLHS8V/images-15.jpg",BeIN Sports 1 DIRECT WL
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://proxy.futuredesh.com/api/proxy?url=http://213.152.185.148/tsn4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/FzphkV89/images-14.jpg",BeIN Sports 4k
 https://cp11.adabmedia.com/hls2/sport.m3u8
