@@ -775,7 +775,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/0yDZxXwK/1726054239-Tsports-Banner.png",T Sports BD
-http://10.99.99.99:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=b69a29f4cf9d21de44570bbca63980a09c2b08d2-88e1cebc167c79a2cfc711b3cbeffce3-1783457176-1783446376
+http://172.19.17.202:8090/hls/tsportshd.m3u8
 http://103.209.196.22:84/feed1001/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay tv
